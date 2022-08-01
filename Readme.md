@@ -2,6 +2,9 @@
 ZOLO provide nano credit via a mobile app.  
 The project goal is to make a machine learning model to avoid payment defaults
 
+## Credit:
+Sid-Ahmed HADJ-SLIMANE 
+
 ## links
 
 * MLFLOW: https://zolo-app.herokuapp.com/#/experiments/3
@@ -9,7 +12,7 @@ The project goal is to make a machine learning model to avoid payment defaults
 ## Details for certification purpose
 
 * email adress: ghazibouchnak@gmail.com
-* video link: 
+* video link: https://share.vidyard.com/watch/gjUJc1Wr1B7cR4AdirwCxA?
 
 ### Data
 
