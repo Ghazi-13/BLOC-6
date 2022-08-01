@@ -1,0 +1,15 @@
+boto3
+pandas
+googletrans==3.1.0a0
+datetime
+geopy
+spacy
+counter
+gunicorn
+streamlit
+sklearn
+matplotlib
+seaborn
+plotly
+mlflow
+psycopg2-binary
