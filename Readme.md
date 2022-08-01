@@ -3,7 +3,7 @@ ZOLO provide nano credit via a mobile app.
 The project goal is to make a machine learning model to avoid payment defaults
 
 ## Credit:
-Project done with Sid-Ahmed HADJ-SLIMANE 
+Project done with the help of Sid-Ahmed HADJ-SLIMANE 
 
 ## links
 
