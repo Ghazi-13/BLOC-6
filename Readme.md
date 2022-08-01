@@ -1,5 +1,5 @@
 # ZOLO project
-ZOLO provide nano credit via a mobile app.
+ZOLO provide nano credit via a mobile app.  
 The project goal is to make a machine learning model to avoid payment defaults
 
 ## links
